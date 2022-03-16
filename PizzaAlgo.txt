@@ -1,5 +1,5 @@
 1. Choose business
-2. Choose pizza
+2. Choose pizza(not hawaiian)
 3. Call business
 4. Order pizza
 5. Pay driver
